@@ -1,0 +1,30 @@
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environment
+
+myenv/
+venv/
+.venv/
+
+# Model files
+
+models/*.h5
+models/*.keras
+models/*.pb
+models/*.tflite
+
+# Output images
+
+outputs/*.jpg
+outputs/*.png
+
+# macOS
+
+.DS_Store
+
+# Logs
+
+*.log
